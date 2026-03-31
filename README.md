@@ -138,8 +138,6 @@ Final Score = (BERT Similarity + ML Prediction Probability) / 2
 
 - Skill extraction is keyword-based  
 - Resume format variations may affect parsing  
-- Model is not trained on real hiring datasets  
-
 ---
 
 ## 🔮 Future Improvements

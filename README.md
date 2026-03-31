@@ -110,11 +110,11 @@ venv\Scripts\activate
 source venv/bin/activate
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt 
 
 ## ▶️ Running the Application
 streamlit run app2.py
-
+```
 ## 🧮 Scoring Logic
 Final Score = (BERT Similarity + ML Prediction Probability) / 2
 

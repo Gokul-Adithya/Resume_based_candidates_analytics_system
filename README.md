@@ -16,12 +16,12 @@ This project helps recruiters analyze multiple resumes efficiently by:
 ---
 
 ## 📁 Project Structure
-Resume_based_candidates_analytics_system/
-│
-├── resumes/ # Folder containing input resumes
-├── app2.py # Main Streamlit application
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+Resume_based_candidates_analytics_system/<br>
+│<br>
+├── resumes/ # Folder containing input resumes<br>
+├── app2.py # Main Streamlit application<br>
+├── requirements.txt # Dependencies<br>
+└── README.md # Project documentation<br>
 
 
 ---
